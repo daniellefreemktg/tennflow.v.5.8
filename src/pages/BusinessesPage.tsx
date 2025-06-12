@@ -7,12 +7,7 @@ const categories = [...new Set(sampleBusinesses.map(business => business.categor
 
 const stateData = {
   'TN': ['Nashville', 'Memphis', 'Knoxville', 'Chattanooga', 'Franklin', 'Gatlinburg', 'Pigeon Forge', 'Murfreesboro', 'Clarksville', 'Jackson'],
-  'VA': ['Richmond', 'Virginia Beach', 'Norfolk', 'Alexandria', 'Roanoke', 'Charlottesville', 'Lynchburg', 'Newport News', 'Hampton', 'Fredericksburg'],
   'GA': ['Atlanta', 'Savannah', 'Augusta', 'Athens', 'Macon', 'Columbus', 'Roswell', 'Albany', 'Marietta', 'Johns Creek'],
-  'NC': ['Charlotte', 'Raleigh', 'Greensboro', 'Durham', 'Winston-Salem', 'Asheville', 'Wilmington', 'Chapel Hill', 'Cary', 'High Point'],
-  'SC': ['Charleston', 'Columbia', 'Greenville', 'Myrtle Beach', 'Rock Hill', 'Mount Pleasant', 'Clemson', 'Aiken', 'Florence', 'Spartanburg'],
-  'AL': ['Birmingham', 'Montgomery', 'Huntsville', 'Mobile', 'Tuscaloosa', 'Auburn', 'Dothan', 'Hoover', 'Decatur', 'Madison'],
-  'KY': ['Louisville', 'Lexington', 'Bowling Green', 'Owensboro', 'Covington', 'Richmond', 'Georgetown', 'Florence', 'Hopkinsville', 'Nicholasville']
 };
 
 const BusinessesPage: React.FC = () => {
