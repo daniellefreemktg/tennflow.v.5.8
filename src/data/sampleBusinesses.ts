@@ -3,8 +3,8 @@ import { Business } from '../types';
 export const sampleBusinesses: Business[] = [
   {
     id: '1',
-    name: 'Nashville Harmony Music Shop',
-    category: 'Music & Entertainment',
+    name: "Donye's Accounting",
+    category: 'Bookeeping & Tax Preparation',
     description: 'Locally-owned music store specializing in instruments, accessories, and music lessons with a focus on country and bluegrass.',
     address: '123 Music Row',
     city: 'Nashville',
