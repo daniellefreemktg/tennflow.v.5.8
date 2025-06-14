@@ -32,10 +32,10 @@ export const sampleBusinesses: Business[] = [
   email: 'string',
   website: 'string',
   image: 'string',
-  tags: ['sample'];
+  tags: ['sample'],
   aiPreference?: {
-    niche: ['sample'];
-    weight: 25;
+    niche: ['sample'],
+    weight: 25
   };
 }
     }
