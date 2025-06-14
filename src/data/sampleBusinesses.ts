@@ -20,22 +20,24 @@ export const sampleBusinesses: Business[] = [
     }
   },
   {
-    id: '2',
-    name: 'Smoky Mountain Outfitters',
-    category: 'Outdoor & Recreation',
-    description: 'Complete outdoor gear and guide services for exploring the Great Smoky Mountains with local expertise.',
-    address: '456 Mountain Way',
-    city: 'Gatlinburg',
-    state: 'TN',
-    zip: '37738',
-    phone: '(865) 555-2345',
-    email: 'sample.com',
-    website: 'www.smokymtnoutfitters.com',
-    image: 'https://images.pexels.com/photos/2626677/pexels-photo-2626677.jpeg',
-    tags: ['outdoor', 'hiking', 'camping', 'guides', 'gear', 'smoky mountains'],
-    aiPreference: {
-      niche: ['hiking', 'camping', 'outdoor gear', 'mountain', 'adventure', 'trails', 'nature', 'outdoor activities', 'wilderness', 'backpacking'],
-      weight: 30
+  id: string,
+  name: string,
+  category: string,
+  description: string,
+  address: string,
+  city: string,
+  state: string,
+  zip: string,
+  phone: string,
+  email: string,
+  website: string,
+  image: string,
+  tags: ['sample'];
+  aiPreference?: {
+    niche: ['sample'];
+    weight: 25;
+  };
+}
     }
   },
   {
