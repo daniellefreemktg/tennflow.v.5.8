@@ -9,7 +9,7 @@ export const sampleBusinesses: Business[] = [
     city: 'Augusta',
     state: 'GA',
     phone: '706-580-1425',
-    email: 'donyesaccounting@yahoo.com',
+    email: "donyesaccounting@yahoo.com",
     website: "bit.ly/Donye'sAccounting",
     image: 'https://www.pexels.com/photo/documents-on-wooden-surface-95916/',
     tags: ['finance', 'accounting', 'taxes', 'money', 'advisory', 'preperation'],
