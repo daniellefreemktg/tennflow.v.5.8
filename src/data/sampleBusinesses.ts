@@ -20,21 +20,21 @@ export const sampleBusinesses: Business[] = [
     }
   },
   {
-    id: '2',
-    name: 'string',
-    category: 'string',
-    description: 'string',
-    address: 'string',
-    city: 'string',
-    state: 'string',
-    zip: 'string',
-    phone: 'string',
-    email: 'string',
-    website: 'string',
-    image: 'string',
-    tags: ['sample'],
-    aiPreference?: {
-      niche: ['sample'],
+  id: '2',
+    name: 'Sample',
+    category: 'Business Services',
+    description: 'Full-service IT consulting and managed services provider helping small businesses across Tennessee with technology needs.',
+    address: '101 Market Street',
+    city: 'Knoxville',
+    state: 'TN',
+    zip: '37902',
+    phone: '(865) 555-4567',
+    email: 'sample.com',
+    website: 'www.volunteertech.com',
+    image: 'https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg',
+    tags: ['technology', 'it services', 'consulting', 'computer repair', 'business'],
+    aiPreference: {
+      niche: ['it services', 'technology', 'computer repair', 'business consulting', 'tech support', 'software', 'hardware', 'network', 'cybersecurity'],
       weight: 25
   };
 }
