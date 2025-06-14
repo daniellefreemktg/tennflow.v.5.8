@@ -6,7 +6,7 @@ export const sampleBusinesses: Business[] = [
     name: "Donye's Accounting",
     category: 'Bookkeeping & Tax Preparation',
     description: "Donye's Accounting prepares taxes, provides bookkeeping, and superb financial advisory services",
-    address: "";
+    address: "",
     city: 'Augusta',
     state: 'GA',
     phone: '706-580-1425',
