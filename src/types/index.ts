@@ -8,6 +8,7 @@ export interface Business {
   state: string;
   zip: string;
   phone: string;
+  email: string;
   website: string;
   image: string;
   tags: string[];
