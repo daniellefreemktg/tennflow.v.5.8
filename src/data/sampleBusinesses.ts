@@ -11,7 +11,7 @@ export const sampleBusinesses: Business[] = [
     phone: '706-580-1425',
     email: 'donyesaccounting@yahoo.com',
     website: "bit.ly/Donye'sAccounting",
-    image: 'https://images.pexels.com/photos/7387031/pexels-photo-7387031.jpeg',
+    image: 'https://www.pexels.com/photo/documents-on-wooden-surface-95916/',
     tags: ['finance', 'accounting', 'taxes', 'money', 'advisory', 'preperation'],
     aiPreference: {
       niche: ['finance', 'accounting', 'taxes', 'money', 'advisory', 'preperation'],
