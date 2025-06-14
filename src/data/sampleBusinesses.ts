@@ -20,7 +20,7 @@ export const sampleBusinesses: Business[] = [
     }
   },
   {
-  id: string,
+  id: 2,
   name: string,
   category: string,
   description: string,
