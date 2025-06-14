@@ -20,22 +20,22 @@ export const sampleBusinesses: Business[] = [
     }
   },
   {
-  id: 2,
-  name: 'string',
-  category: 'string',
-  description: 'string',
-  address: 'string',
-  city: 'string',
-  state: 'string',
-  zip: 'string',
-  phone: 'string',
-  email: 'string',
-  website: 'string',
-  image: 'string',
-  tags: ['sample'],
-  aiPreference?: {
-    niche: ['sample'],
-    weight: 25
+    id: '2',
+    name: 'string',
+    category: 'string',
+    description: 'string',
+    address: 'string',
+    city: 'string',
+    state: 'string',
+    zip: 'string',
+    phone: 'string',
+    email: 'string',
+    website: 'string',
+    image: 'string',
+    tags: ['sample'],
+    aiPreference?: {
+      niche: ['sample'],
+      weight: 25
   };
 }
     }
