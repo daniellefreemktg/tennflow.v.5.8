@@ -4,19 +4,17 @@ export const sampleBusinesses: Business[] = [
   {
     id: '1',
     name: "Donye's Accounting",
-    category: 'Bookeeping & Tax Preparation',
-    description: 'Locally-owned music store specializing in instruments, accessories, and music lessons with a focus on country and bluegrass.',
-    address: '123 Music Row',
-    city: 'Nashville',
-    state: 'TN',
-    zip: '37203',
-    phone: '(615) 555-1234',
-    website: 'www.nashvilleharmony.com',
+    category: 'Bookkeeping & Tax Preparation',
+    description: "Donye's Accounting prepares taxes, provides bookkeeping, and superb financial advisory services",
+    city: 'Augusta',
+    state: 'GA',
+    phone: '706-580-1425',
+    website: 'donyesaccounting@yahoo.com',
     image: 'https://images.pexels.com/photos/7387031/pexels-photo-7387031.jpeg',
-    tags: ['music', 'instruments', 'lessons', 'nashville', 'guitar', 'country music'],
+    tags: ['finance', 'accounting', 'taxes', 'money', 'advisory', 'preperation'],
     aiPreference: {
-      niche: ['music', 'instrument', 'guitar', 'lessons', 'country music', 'band', 'musical', 'entertainment', 'live music', 'performance'],
-      weight: 15
+      niche: ['finance', 'accounting', 'taxes', 'money', 'advisory', 'preperation'],
+      weight: 35
     }
   },
   {
