@@ -3,7 +3,7 @@ import { Business } from '../types';
 export const sampleBusinesses: Business[] = [
   {
     id: '1',
-    name: "Donye's Accounting",
+    name: "Donye's1 Accounting",
     category: 'Bookkeeping & Tax Preparation',
     description: "Donye's Accounting prepares taxes, provides bookkeeping, and superb financial advisory services",
     address: '',
