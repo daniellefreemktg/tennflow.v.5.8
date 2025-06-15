@@ -36,8 +36,6 @@ export const sampleBusinesses: Business[] = [
     aiPreference: {
       niche: ['it services', 'technology', 'computer repair', 'business consulting', 'tech support', 'software', 'hardware', 'network', 'cybersecurity'],
       weight: 25
-  };
-}
     }
   },
   {
