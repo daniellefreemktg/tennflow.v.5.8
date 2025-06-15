@@ -3,7 +3,6 @@ export interface Business {
   name: string;
   category: string;
   description: string;
-  address: string;
   city: string;
   state: string;
   zip: string;
