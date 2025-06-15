@@ -16,37 +16,48 @@ interface BlogPost {
 const blogPosts: BlogPost[] = [
   {
     id: '1',
-    title: 'Top 10 BBQ Joints in Memphis You Can\'t Miss',
-    excerpt: 'Discover the most authentic and mouth-watering BBQ spots that make Memphis a food lover\'s paradise.',
-    author: 'Sarah Johnson',
-    date: '2024-03-15',
+    title: 'The Smarter Way to Find and List Local Businesses in Georgia and Tennessee:',
+    excerpt: "TennFlow's AI Business Directory Launch",
+    author: 'Danielle C. Freeman',
+    date: '2025-06-15',
     image: 'https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg',
-    category: 'Food & Dining',
-    businessMentioned: 'Memphis BBQ Kitchen',
-    link: '/blog/top-10-bbq-joints-memphis'
+    category: 'Technology',
+    businessMentioned: 'TennFlow',
+    link: 'https://mysticc34d7b070b.wordpress.com/2025/05/29/hello-world/'
   },
   {
     id: '2',
-    title: 'Nashville\'s Hidden Music Venues: Local\'s Guide',
-    excerpt: 'Beyond the famous Broadway, these lesser-known music spots offer authentic Nashville experiences.',
-    author: 'Mike Thompson',
-    date: '2024-03-12',
+    title: 'TennFlow Tutorial',
+    excerpt: 'How to Find Your Perfect Match for Businesses within Atlanta & Tennessee in a way that’s Fast, Simple, and Private',
+    author: 'Danielle C. Freeman',
+    date: '2025-06-15',
     image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
-    category: 'Music & Entertainment',
-    businessMentioned: 'Nashville Harmony Music Shop',
-    link: '/blog/nashville-hidden-music-venues'
+    category: 'Technology',
+    businessMentioned: 'TennFlow',
+    link: 'https://mysticc34d7b070b.wordpress.com/2025/06/15/how-to-find-your-perfect-match-for-businesses-within-georgia-tennessee-in-a-way-thats-fast-simple-and-private/'
   },
   {
     id: '3',
-    title: 'Exploring the Great Smoky Mountains: Business Owner\'s Guide',
-    excerpt: 'Local business owners share their tips for making the most of Tennessee\'s natural wonder.',
-    author: 'Emily Chen',
-    date: '2024-03-10',
-    image: 'https://images.pexels.com/photos/6263568/pexels-photo-6263568.jpeg',
-    category: 'Outdoor & Recreation',
-    businessMentioned: 'Smoky Mountain Outfitters',
-    link: '/blog/smoky-mountains-business-guide'
-  }
+    title: 'A Beginner’s Guide to Finding Your Perfect Business Match with AI Technology & The 5 Key Benefits Doing so',
+    excerpt: 'Discover how TennFlow, an AI-powered Georgia and Tennessee business directory, helps you find your perfect local business match—fast, private, and personalized.',
+    author: 'Danielle C. Freeman',
+    date: '2025-06-15',
+    image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
+    category: 'Technology',
+    businessMentioned: 'TennFlow',
+    link: 'https://mysticc34d7b070b.wordpress.com/2025/06/15/a-beginners-guide-to-finding-your-perfect-business-match-with-ai-technology-the-5-key-benefits-doing-so/'
+  },
+    {
+    id: '4',
+    title: 'Business Search Made Simple:',
+    excerpt: 'Why Privacy-First AI Matchmaking Is the Future',
+    author: 'Danielle C. Freeman',
+    date: '2025-06-15',
+    image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
+    category: 'Technology',
+    businessMentioned: 'TennFlow',
+    link: 'https://mysticc34d7b070b.wordpress.com/2025/06/15/business-search-made-simple-why-privacy-first-ai-matchmaking-is-the-future/'
+      }
 ];
 
 const BlogPage: React.FC = () => {
