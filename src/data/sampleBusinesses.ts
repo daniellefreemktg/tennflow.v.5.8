@@ -3,10 +3,9 @@ import { Business } from '../types';
 export const sampleBusinesses: Business[] = [
   {
     id: '1',
-    name: "Donye's1 Accounting",
+    name: "Donye's Accounting",
     category: 'Bookkeeping & Tax Preparation',
-    description: "Donye's Accounting prepares taxes, provides bookkeeping, and superb financial advisory services",
-    address: '',
+    description: "Donye's Accounting prepares taxes, provides bookkeeping, and superb financial advisory services.",
     city: 'Augusta',
     state: 'GA',
     phone: '706-580-1425',
