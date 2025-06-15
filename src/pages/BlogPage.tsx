@@ -20,7 +20,7 @@ const blogPosts: BlogPost[] = [
     excerpt: "TennFlow's AI Business Directory Launch",
     author: 'Danielle C. Freeman',
     date: '2025-06-15',
-    image: 'https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg',
+    image: 'https://images.pexels.com/photos/6147365/pexels-photo-6147365.jpeg',
     category: 'Technology',
     businessMentioned: 'TennFlow',
     link: 'https://mysticc34d7b070b.wordpress.com/2025/05/29/hello-world/'
@@ -31,7 +31,7 @@ const blogPosts: BlogPost[] = [
     excerpt: 'How to Find Your Perfect Match for Businesses within Atlanta & Tennessee in a way that’s Fast, Simple, and Private',
     author: 'Danielle C. Freeman',
     date: '2025-06-15',
-    image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
+    image: 'https://images.pexels.com/photos/5905853/pexels-photo-5905853.jpeg',
     category: 'Technology',
     businessMentioned: 'TennFlow',
     link: 'https://mysticc34d7b070b.wordpress.com/2025/06/15/how-to-find-your-perfect-match-for-businesses-within-georgia-tennessee-in-a-way-thats-fast-simple-and-private/'
@@ -42,7 +42,7 @@ const blogPosts: BlogPost[] = [
     excerpt: 'Discover how TennFlow, an AI-powered Georgia and Tennessee business directory, helps you find your perfect local business match—fast, private, and personalized.',
     author: 'Danielle C. Freeman',
     date: '2025-06-15',
-    image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
+    image: 'https://images.pexels.com/photos/30840740/pexels-photo-30840740/free-photo-of-remote-work-with-laptop-and-smartphone.jpeg',
     category: 'Technology',
     businessMentioned: 'TennFlow',
     link: 'https://mysticc34d7b070b.wordpress.com/2025/06/15/a-beginners-guide-to-finding-your-perfect-business-match-with-ai-technology-the-5-key-benefits-doing-so/'
@@ -53,7 +53,7 @@ const blogPosts: BlogPost[] = [
     excerpt: 'Why Privacy-First AI Matchmaking Is the Future',
     author: 'Danielle C. Freeman',
     date: '2025-06-15',
-    image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
+    image: 'https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg',
     category: 'Technology',
     businessMentioned: 'TennFlow',
     link: 'https://mysticc34d7b070b.wordpress.com/2025/06/15/business-search-made-simple-why-privacy-first-ai-matchmaking-is-the-future/'
