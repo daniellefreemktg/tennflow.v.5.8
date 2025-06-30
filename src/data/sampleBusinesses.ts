@@ -20,21 +20,18 @@ export const sampleBusinesses: Business[] = [
   },
   {
   id: '2',
-    name: 'Sample',
-    category: 'Business Services',
-    description: 'Full-service IT consulting and managed services provider helping small businesses across Tennessee with technology needs.',
-    address: '101 Market Street',
-    city: 'Knoxville',
+    name: 'FM Health Naturally, LLC',
+    category: 'Health & Wellness',
+    description: 'We help exhausted autism parents transform overwhelming daily chaos into sustainable family thriving through functional medicine approaches that address root physiological causes.',
     state: 'TN',
-    zip: '37902',
-    phone: '(865) 555-4567',
-    email: 'sample.com',
-    website: 'www.volunteertech.com',
-    image: 'https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg',
-    tags: ['technology', 'it services', 'consulting', 'computer repair', 'business'],
+    phone: '901-668-8860',
+    email: 'admin@FMHealthNaturally.com',
+    website: 'https://fmhealthnaturally.com/bookingpage-5929',
+    image: 'https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/oRuB4EtEZ1qFHCG0lrXx/media/680a5ef79020da09c8800cfb.png',
+    tags: ['autism', 'neurodivergent', 'parents', 'support', 'therapy', 'medicine', 'inflammation', 'toxin exposure', 'sleep', 'nutrition', 'stress', 'meltdowns'],
     aiPreference: {
-      niche: ['it services', 'technology', 'computer repair', 'business consulting', 'tech support', 'software', 'hardware', 'network', 'cybersecurity'],
-      weight: 25
+      niche: ['Functional Medicine for Children / Pediatric Functional Medicine', 'Holistic Autism Support', 'Special Needs Family Wellness', 'Gut-Brain Health / Neuroinflammation Recovery', 'Burnout Recovery for Autism Parents'],
+      weight: 54
     }
   },
   {
