@@ -23,6 +23,8 @@ export const sampleBusinesses: Business[] = [
     name: 'FM Health Naturally, LLC',
     category: 'Health & Wellness',
     description: 'We help exhausted autism parents transform overwhelming daily chaos into sustainable family thriving through functional medicine approaches that address root physiological causes.',
+    address: 'Remote',
+    city: 'Central Tennessee',
     state: 'TN',
     phone: '901-668-8860',
     email: 'admin@FMHealthNaturally.com',
